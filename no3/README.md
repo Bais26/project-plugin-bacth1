@@ -1,0 +1,2 @@
+# PROJECT BATCH 1 UAS NO3
+sebelum menjelaskan apa itu operator logika dan operator aritmatika kita harus tau terlebih dahulu apa sih itu operator,operator adalah subuah jenis fungsional dimana ada banyak jenis operator dan duanya yang akan saya jelaskan, nah apa sih operator logika? operator logika adalah suatu operator yang melakukan pemeriksaan kesamaan nilai atau hasil dari dua data atau lebih, sedangan operator aritmatika adalah sebuah operator yang mempunyai fungsi untuk melakukan pemproses dari dua buah operan yang akan menghasilkan nilai.
